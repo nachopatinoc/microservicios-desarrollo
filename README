@@ -1,0 +1,20 @@
+# env Postgresql
+
+```bash
+DATABASE_URL="postgresql://anfatitofa:fatotifaan1504141503@localhost:3000/sysacad_db"
+POSTGRES_USER=anfatitofa
+POSTGRES_PASSWORD=fatotifaan1504141503
+POSTGRES_DB=sysacad_db
+POSTGRES_PORT=3000
+
+SERVER_PORT=3001
+SALT_SECRET=tu_salt_secret_aqui
+
+NODE_ENV=development
+```
+
+# env Redis
+
+```bash
+REDIS_PASSWORD=antitofaredis
+```
