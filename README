@@ -17,4 +17,5 @@ NODE_ENV=development
 
 ```bash
 REDIS_PASSWORD=antitofaredis
+REDIS_PORT=6380
 ```
